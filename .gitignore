@@ -1,0 +1,54 @@
+# Package
+manifest/package.xml
+
+# VSCode
+.vscode/settings.json
+
+# Config
+config/project-scratch-def.json
+force-app/main/default/lwc/jsconfig.json
+sfdx-project.json
+.sf/config.json
+.sfdx/sfdx-config.json
+
+# Default
+.sfdx/indexes/lwc/custom-components.json
+.sfdx/tools/soqlMetadata/typeNames.json
+.sfdx/tools/soqlMetadata/standardObjects/Account.json
+.sfdx/tools/soqlMetadata/standardObjects/Attachment.json
+.sfdx/tools/soqlMetadata/standardObjects/Case.json
+.sfdx/tools/soqlMetadata/standardObjects/Contact.json
+.sfdx/tools/soqlMetadata/standardObjects/Contract.json
+.sfdx/tools/soqlMetadata/standardObjects/Lead.json
+.sfdx/tools/soqlMetadata/standardObjects/Note.json
+.sfdx/tools/soqlMetadata/standardObjects/Opportunity.json
+.sfdx/tools/soqlMetadata/standardObjects/Order.json
+.sfdx/tools/soqlMetadata/standardObjects/Pricebook2.json
+.sfdx/tools/soqlMetadata/standardObjects/PricebookEntry.json
+.sfdx/tools/soqlMetadata/standardObjects/Product2.json
+.sfdx/tools/soqlMetadata/standardObjects/RecordType.json
+.sfdx/tools/soqlMetadata/standardObjects/Report.json
+.sfdx/tools/soqlMetadata/standardObjects/Task.json
+.sfdx/tools/soqlMetadata/standardObjects/User.json
+.sfdx/typings/lwc/apex.d.ts
+.sfdx/typings/lwc/engine.d.ts
+.sfdx/typings/lwc/lds.d.ts
+.sfdx/typings/lwc/messageservice.d.ts
+.sfdx/typings/lwc/schema.d.ts
+.sfdx/typings/lwc/user.d.ts
+.sfdx/typings/lwc/sobjects/Account.d.ts
+.sfdx/typings/lwc/sobjects/Attachment.d.ts
+.sfdx/typings/lwc/sobjects/Case.d.ts
+.sfdx/typings/lwc/sobjects/Contact.d.ts
+.sfdx/typings/lwc/sobjects/Contract.d.ts
+.sfdx/typings/lwc/sobjects/Lead.d.ts
+.sfdx/typings/lwc/sobjects/Note.d.ts
+.sfdx/typings/lwc/sobjects/Opportunity.d.ts
+.sfdx/typings/lwc/sobjects/Order.d.ts
+.sfdx/typings/lwc/sobjects/Pricebook2.d.ts
+.sfdx/typings/lwc/sobjects/PricebookEntry.d.ts
+.sfdx/typings/lwc/sobjects/Product2.d.ts
+.sfdx/typings/lwc/sobjects/RecordType.d.ts
+.sfdx/typings/lwc/sobjects/Report.d.ts
+.sfdx/typings/lwc/sobjects/Task.d.ts
+.sfdx/typings/lwc/sobjects/User.d.ts
