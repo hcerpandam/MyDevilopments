@@ -18,7 +18,7 @@
 
 - When: On click button "Display billing history" on record layout of entity Account
 - What: Salesforce should perform a synchronous callout to a middleware and rerender page with Billing History records
-- Considerations: No DML can be performed on any of the systems
+- Considerations: No DML can be performed on any of the systems. Operation can't be done from sites
 
 ### 1.3. REST
 
