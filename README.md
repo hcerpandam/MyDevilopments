@@ -6,6 +6,8 @@
 
 ## 1. Request & Reply [^](#integration-patterns-)
 
+- Salesforce invokes a process on a remote system, waits for the completion of that process, and then tracks the state based on the response from the remote system.
+
 ### 1.1. Client requirement
 
 - A utility company uses Salesforce and has a separate system that contains customer billing information. 
